@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 6af9fdb1e0f067c45b5db923038c36dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4493590007624933022
+    second: wisp_0
+  - first:
+      213: -2352390107420059059
+    second: wisp_1
+  - first:
+      213: -8023877839763048758
+    second: wisp_2
+  - first:
+      213: -7440948078868314063
+    second: wisp_3
+  - first:
+      213: -8248239240309425892
+    second: wisp_4
+  - first:
+      213: 5653854900364807617
+    second: wisp_5
+  - first:
+      213: 767107404823852484
+    second: wisp_6
+  - first:
+      213: 7728815619848145059
+    second: wisp_7
+  - first:
+      213: 1624224387114377970
+    second: wisp_8
+  - first:
+      213: -6530873120849499935
+    second: wisp_9
+  - first:
+      213: 7593504229230248358
+    second: wisp_10
+  - first:
+      213: 3337940780518511599
+    second: wisp_11
+  - first:
+      213: 6012493576134680741
+    second: wisp_12
+  - first:
+      213: 5726398566065372220
+    second: wisp_13
+  - first:
+      213: -5544653397728484787
+    second: wisp_14
+  - first:
+      213: 5655344896330482938
+    second: wisp_15
+  - first:
+      213: 3765320341087434861
+    second: wisp_16
+  - first:
+      213: -6451297649495866069
+    second: wisp_17
+  - first:
+      213: 2909662477227936498
+    second: wisp_18
+  - first:
+      213: -2192613117079478146
+    second: wisp_19
+  - first:
+      213: -5998803716206749907
+    second: wisp_20
+  - first:
+      213: 7322847580780009295
+    second: wisp_21
+  - first:
+      213: -8164339401741483139
+    second: wisp_22
+  - first:
+      213: -240522661308418488
+    second: wisp_23
+  - first:
+      213: -4375312861702183509
+    second: wisp_24
+  - first:
+      213: -8553602165760844502
+    second: wisp_25
+  - first:
+      213: -5120496873402328497
+    second: wisp_26
+  - first:
+      213: 2804785700483046089
+    second: wisp_27
+  - first:
+      213: 5914471397285566889
+    second: wisp_28
+  - first:
+      213: -562202914424918273
+    second: wisp_29
+  - first:
+      213: -3508817001973977889
+    second: wisp_30
+  - first:
+      213: -7773053161256727930
+    second: wisp_31
+  - first:
+      213: 5960123276209602821
+    second: wisp_32
+  - first:
+      213: -7402814182827487669
+    second: wisp_33
+  - first:
+      213: -1604806459487585538
+    second: wisp_34
+  - first:
+      213: -9022475835199734597
+    second: wisp_35
+  - first:
+      213: -1132391067021954059
+    second: wisp_36
+  - first:
+      213: 6833612115432538316
+    second: wisp_37
+  - first:
+      213: 5142435479435309746
+    second: wisp_38
+  - first:
+      213: 5347999239876182142
+    second: wisp_39
+  - first:
+      213: -3984586434528657214
+    second: wisp_40
+  - first:
+      213: -8792111291382633227
+    second: wisp_41
+  - first:
+      213: -8727401345838342224
+    second: wisp_42
+  - first:
+      213: -1055310915920654080
+    second: wisp_43
+  - first:
+      213: 2961398766571231586
+    second: wisp_44
+  - first:
+      213: 5955383985154951044
+    second: wisp_45
+  - first:
+      213: 3315271701682052908
+    second: wisp_46
+  - first:
+      213: 2201850545165616335
+    second: wisp_47
+  - first:
+      213: -8433079231397518602
+    second: wisp_48
+  - first:
+      213: 3340488845966127108
+    second: wisp_49
+  - first:
+      213: -6670077384682904214
+    second: wisp_50
+  - first:
+      213: 6196869170427766288
+    second: wisp_51
+  - first:
+      213: -1076707994897326960
+    second: wisp_52
+  - first:
+      213: -1344982755101760809
+    second: wisp_53
+  - first:
+      213: -995721734425764086
+    second: wisp_54
+  - first:
+      213: 1074592084109988170
+    second: wisp_55
+  - first:
+      213: -5383834468090370974
+    second: wisp_56
+  - first:
+      213: 8174192013225439355
+    second: wisp_57
+  - first:
+      213: 1509635556166746470
+    second: wisp_58
+  - first:
+      213: -908676004057378442
+    second: wisp_59
+  - first:
+      213: -3662242038010952293
+    second: wisp_60
+  - first:
+      213: 8326623157859851912
+    second: wisp_61
+  - first:
+      213: -4060972598028559958
+    second: wisp_62
+  - first:
+      213: 944031404391847954
+    second: wisp_63
+  - first:
+      213: 3106880073006702665
+    second: wisp_64
+  - first:
+      213: 2638315006251889621
+    second: wisp_65
+  - first:
+      213: 3159720502200799264
+    second: wisp_66
+  - first:
+      213: 1499293037361668044
+    second: wisp_67
+  - first:
+      213: 8770507433827029369
+    second: wisp_68
+  - first:
+      213: -8436867989895380113
+    second: wisp_69
+  - first:
+      213: 1735635451487921191
+    second: wisp_70
+  - first:
+      213: 9058835392133585559
+    second: wisp_71
+  - first:
+      213: -4328824178399597733
+    second: wisp_72
+  - first:
+      213: -2671533991372327858
+    second: wisp_73
+  - first:
+      213: 4644332260906239260
+    second: wisp_74
+  - first:
+      213: -3696695684144298400
+    second: wisp_75
+  - first:
+      213: -556512637359203060
+    second: wisp_76
+  - first:
+      213: -4909233151581025409
+    second: wisp_77
+  - first:
+      213: -4982777790187875520
+    second: wisp_78
+  - first:
+      213: 7062443584768154771
+    second: wisp_79
+  - first:
+      213: 4654893990233013109
+    second: wisp_80
+  - first:
+      213: -4842454892334041809
+    second: wisp_81
+  - first:
+      213: 5282255248678894739
+    second: wisp_82
+  - first:
+      213: 8030965018467621148
+    second: wisp_83
+  - first:
+      213: -5472693957094570885
+    second: wisp_84
+  - first:
+      213: 1222619401451241154
+    second: wisp_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wisp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261654532bf83a1c0800000000000000
+      internalID: -4493590007624933022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a951a29a1aa5fd0800000000000000
+      internalID: -2352390107420059059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac67bc7fd9575a090800000000000000
+      internalID: -8023877839763048758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138cde665217cb890800000000000000
+      internalID: -7440948078868314063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193beaac1e588d80800000000000000
+      internalID: -8248239240309425892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd88d39317867e40800000000000000
+      internalID: 5653854900364807617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5f811de1055aa00800000000000000
+      internalID: 767107404823852484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80a837bd4424b60800000000000000
+      internalID: 7728815619848145059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2aa7d79776a8610800000000000000
+      internalID: 1624224387114377970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e86e96af7dad55a0800000000000000
+      internalID: -6530873120849499935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a102b74ddb816960800000000000000
+      internalID: 7593504229230248358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39818647fb25e20800000000000000
+      internalID: 3337940780518511599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a063db4d0ba07350800000000000000
+      internalID: 6012493576134680741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cf1a4f721487f40800000000000000
+      internalID: 5726398566065372220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422bb19c1f6d03b0800000000000000
+      internalID: -5544653397728484787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c81c4832db7e40800000000000000
+      internalID: 5655344896330482938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b11496ea114430800000000000000
+      internalID: 3765320341087434861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258c7dd7f26876a0800000000000000
+      internalID: -6451297649495866069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa44736b92316820800000000000000
+      internalID: 2909662477227936498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ad9aacf54291e0800000000000000
+      internalID: -2192613117079478146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27143a9dc7ffbca0800000000000000
+      internalID: -5998803716206749907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4798bc931bff9560800000000000000
+      internalID: 7322847580780009295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d734975129072be80800000000000000
+      internalID: -8164339401741483139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846b744f9ed79acf0800000000000000
+      internalID: -240522661308418488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba52b093224c743c0800000000000000
+      internalID: -4375312861702183509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d10df26208b4980800000000000000
+      internalID: -8553602165760844502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wisp_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a1b53293750f8b0800000000000000
+      internalID: -5120496873402328497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
